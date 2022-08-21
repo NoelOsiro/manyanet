@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/manyanet/static/css/main.ae42ac5f.css",
+    "main.js": "/manyanet/static/js/main.d7fd1b02.js",
+    "index.html": "/manyanet/index.html",
+    "main.ae42ac5f.css.map": "/manyanet/static/css/main.ae42ac5f.css.map",
+    "main.d7fd1b02.js.map": "/manyanet/static/js/main.d7fd1b02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.d7fd1b02.js"
+  ]
+}
