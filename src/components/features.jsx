@@ -1,3 +1,8 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import {library} from '@fortawesome/fontawesome-svg-core';
+import { faTruckFast,faCoins,faUserSecret,faComments } from '@fortawesome/free-solid-svg-icons'
+library.add(faCoins,faComments,faTruckFast,faUserSecret)
+
 export const Features = (props) => {
   return (
     <div id='features' className='text-center'>
@@ -10,7 +15,10 @@ export const Features = (props) => {
             ? props.data.map((d, i) => (
                 <div key={`${d.title}-${i}`} className='col-xs-6 col-md-3'>
                   {' '}
-                  <i className={d.icon}></i>
+                  <div className='feature-icon'>
+                  <FontAwesomeIcon icon={d.icon} size="4x" style={{'marginTop':'3rem'}}/>
+                  </div>
+                  
                   <h3>{d.title}</h3>
                   <p>{d.text}</p>
                 </div>

@@ -7,7 +7,7 @@ const initialState = {
   message: '',
 }
 export const Contact = (props) => {
-  const [{ name, email, message }, setState] = useState(initialState)
+  const [{ name, email, message,phoneNumber }, setState] = useState(initialState)
 
   const handleChange = (e) => {
     const { name, value } = e.target
@@ -45,7 +45,7 @@ export const Contact = (props) => {
                   get back to you as soon as possible.
                 </p>
               </div>
-              <form name='sentMessage' validate onSubmit={handleSubmit}>
+              <form name='sentMessage' validate='true' onSubmit={handleSubmit}>
                 <div className='row'>
                   <div className='col-md-6'>
                     <div className='form-group'>
@@ -75,6 +75,18 @@ export const Contact = (props) => {
                       <p className='help-block text-danger'></p>
                     </div>
                   </div>
+                </div>
+                <div className='form-group'>
+                  <input
+                    type='phone'
+                    name='phoneNumber'
+                    id='phoneNumber'
+                    className='form-control'
+                    placeholder='Phone'
+                    required
+                    onChange={handleChange}
+                  ></input>
+                  <p className='help-block text-danger'></p>
                 </div>
                 <div className='form-group'>
                   <textarea
@@ -150,10 +162,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2020 Issaaf Kattan React Land Page Template. Design by{' '}
-            <a href='http://www.templatewire.com' rel='nofollow'>
-              TemplateWire
-            </a>
+            &copy; 2022 ManyaNet Limited
           </p>
         </div>
       </div>

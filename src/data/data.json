@@ -1,100 +1,101 @@
+
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Network is Inspiration",
+    "paragraph": "ManyaNet guarantees the fastest and most reliable broad band service in Malindi by use of fiber optic technology. Our dedicated Customer Service Team is available 24/7 via Email, Chat or direct Phone call to help you with connection services."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "We’re a startup targeting to be one of Malindi’s (Kenya) leading communications services companies. The solutions we sell are integral to modern life. Our purpose is as simple as it is ambitious: we connect for good. There are no limits to what people can do when they connect. And as technology changes our world, connections are becoming even more important to everyday life.Today, that’s truer than ever. The connections we make are helping solve the world’s biggest challenges such as the global pandemic, climate change and cyber security. Through the power of technology, we’re supporting customers to live, work and play together better.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Quick and easy installation",
+      "Elaborate Consultation",
+      "Self care and monitoring",
+      "Honesty and transparency"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Protecting our customers",
+      "Sustainable",
+      "No long term contracts",
+      "Build Kenya Buy Kenya"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Hotel Management System",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Restaurant System",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Property Management System",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Internet Connection",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "IoT Integration",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Network Supplies",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Digital Migration Consultaions",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Cloud Migration",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Call Center Setup",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "house-signal",
+      "name": "Internet Connection",
+      "text": "Never Miss a Moment With ManyaNet. Enjoy seamless and fast WIFI internet at home or business"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "video",
+      "name": "CCTV Security Installation",
+      "text": "Allows you to monitor activity in your home/business and compound anywhere, anytime."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "cloud-download",
+      "name": "Cloud Migration",
+      "text": "We offer cloud migration services for your business, go global in miuntes without upfront costs. Free consultation and analysis from our cloud experts."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "laptop-code",
+      "name": "Software Development",
+      "text": "We transform ideas into real life digital solutions. Our team of developers give you the cutting edge to the latest tech that can make your idea standout in the digital space"
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "boxes-packing",
+      "name": "Computer and IT network supplies",
+      "text": "We are a one stop shop for all your computer networking requirements, offering the latest industry standard gadgets to suite your needs."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "network-wired",
+      "name": "IoT Survey and setup",
+      "text": "What's the point of connection if your place ain't smart.ManyaNet IoT package involves free surveys and consultations to make your business or home 'SMART'"
     }
   ],
   "Testimonials": [
@@ -132,18 +133,18 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "name": "Noel Osiro",
       "job": "Director"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Daniel Mogaka",
+      "job": "Director"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Phostine",
+      "job": "Product Manager"
     },
     {
       "img": "img/team/04.jpg",
@@ -152,33 +153,33 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Malindi Complex, Malindi, Kenya ",
+    "phone": "+254 729 732 440",
+    "email": "manyanet-limited@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "truck-fast",
+      "title": "Speed Guarantee",
+      "text": "Get the speed we promised or money back."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "user-secret",
+      "title": "Security Built In",
+      "text": "ManyaNet Broadband Shield offers advanced protection with Safe Search included, to help make the internet a safer place for your whole family at no extra cost."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "coins",
+      "title": "Cost Savings",
+      "text": "Who says internet has to be expensive? We certainly Don't! Get cheapest installation and monthly packages."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "comments",
+      "title": "Resolution Centre",
+      "text": "Dedicated Customer Service Team is available 24/7 via Email, Chat or direct Phone call to help you with connection services."
     }
   ]
 }

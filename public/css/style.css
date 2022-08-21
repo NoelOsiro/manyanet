@@ -260,6 +260,19 @@ header .intro-text {
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
+
+.feature-icon {
+  background-color: blue;
+  color: white;
+  width: 120px;
+  height: 122px;
+  background: #627dff;
+  -moz-border-radius: 70px;
+  -webkit-border-radius: 70px;
+  border-radius: 70px;
+  margin-left: auto;
+  margin-right: auto;
+}
 /* About Section */
 #about {
   padding: 100px 0;
